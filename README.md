@@ -1,0 +1,2 @@
+# static
+static public content
